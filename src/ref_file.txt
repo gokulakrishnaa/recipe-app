@@ -1,0 +1,30 @@
+paneer = https://www.ruchiskitchen.com/wp-content/uploads/2020/12/Paneer-butter-masala-recipe-3-500x500.jpg
+biriyani = https://qph.fs.quoracdn.net/main-qimg-c2361d48ebd9e8584ba43686407ff679
+dosa = https://sukhis.com/wp-content/uploads/2020/01/Dosa-500x400.jpg
+noodles = https://images.immediate.co.uk/production/volatile/sites/30/2020/12/Noodles-with-chilli-oil-eggs-6ec34e9.jpg
+tandoori = https://healthyrecipesblogs.com/wp-content/uploads/2013/02/tandoori-chicken-featured-2021.jpg
+
+{
+      name: "Paneer Butter Masala",
+      image:
+        "https://www.ruchiskitchen.com/wp-content/uploads/2020/12/Paneer-butter-masala-recipe-3-500x500.jpg",
+    },
+    {
+      name: "Biriyani",
+      image:
+        "https://qph.fs.quoracdn.net/main-qimg-c2361d48ebd9e8584ba43686407ff679",
+    },
+    {
+      name: "Dosa",
+      image: "https://sukhis.com/wp-content/uploads/2020/01/Dosa-500x400.jpg",
+    },
+    {
+      name: "Noodles",
+      image:
+        "https://images.immediate.co.uk/production/volatile/sites/30/2020/12/Noodles-with-chilli-oil-eggs-6ec34e9.jpg",
+    },
+    {
+      name: "Tandhoori",
+      image:
+        "https://healthyrecipesblogs.com/wp-content/uploads/2013/02/tandoori-chicken-featured-2021.jpg",
+    },
